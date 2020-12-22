@@ -1,0 +1,11 @@
+To start, we will use the foursquare location data and the list of neighborhoods in Chicago to find the best place to live in a vibrant city of Chicago. All the required libraries for python were imported.
+
+https://www.dreamtown.com/maps/chicago-zipcode-map
+
+This data consited of all the neighborhoods of chicago area with the zipcode. The data was formatted and cleaned for use in our project.
+
+The gelocation data for the uS zip code was found from the following link:
+
+https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/
+
+These dataset were merged to use for in our project.
